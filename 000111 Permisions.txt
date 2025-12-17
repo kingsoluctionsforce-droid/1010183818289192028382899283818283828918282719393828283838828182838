@@ -1,0 +1,9 @@
+local allowedUsers = {
+    [4312950439] = true, -- PALADINOSrk (Criador)
+    [5757317729] = true, -- Romulllov12 (Criador)
+    -- Compradores:
+    [8565609571] = true, -- Gabriel_111709
+    [8466797429] = true, -- c00lkids_king
+}
+
+return allowedUsers
